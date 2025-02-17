@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xaddict
 - 👀 I’m interested in the open web and innovation in code
-- 🌱 I’m currently learning vuejs@3, nuxt, lume (deno)
+- 🌱 I’m currently working with vuejs nuxt, svelte, lume (deno)
 - 📫 How to reach me: @xaddict@mastodon.social
 
 <!---
